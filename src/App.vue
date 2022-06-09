@@ -4,7 +4,7 @@
       <v-app-bar color="deep-purple accent-4" dark dense>
         <v-app-bar-nav-icon @click="drawer = true"></v-app-bar-nav-icon>
 
-        <v-toolbar-title>Go/Gin API - Vuetify</v-toolbar-title>
+        <v-toolbar-title>Go/Gin API - Vuetify - alterada</v-toolbar-title>
         <v-spacer></v-spacer>
 
         <router-link to="about">
